@@ -1,7 +1,7 @@
 package Group13;
 
 public class Vehicle {
-public static String made="russian american all amde in taiwan";
+public static String made="russian american all made in taiwan";
     private String name;
     private String model;
     private int year;
