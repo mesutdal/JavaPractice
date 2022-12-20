@@ -41,7 +41,7 @@ public class VehicleObject {
         System.out.println(yacht);
 
         yacht.luxury();
-
+// not
 
 
 
