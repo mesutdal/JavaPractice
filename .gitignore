@@ -1,0 +1,13 @@
+/src/IfStatement/
+/src/MehodOverriding/
+/src/NestedIf_Ternaries/
+/src/Operators/
+/src/PrimitiveTypeCasting/
+/src/Scanner/
+/src/StringConcatenation/
+/src/STRINGDay13/
+/src/SwitchStatements/
+/.idea/
+/out/
+*.iml
+
