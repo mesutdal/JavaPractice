@@ -2,6 +2,7 @@ package Group13;
 
 public class Vehicle {
 public static String made="russian american all made in taiwan";
+public static String cars="reno";
     private String name;
     private String model;
     private int year;
