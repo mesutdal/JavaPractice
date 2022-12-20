@@ -41,7 +41,8 @@ public class VehicleObject {
         System.out.println(yacht);
 
         yacht.luxury();
-
+        
+ System.out.println("-----------+ Yacht.made +---------");
 
 
 
